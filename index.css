@@ -1,0 +1,16 @@
+.grid-item{
+    height: 39px;
+    width: 39px;
+    background-color:grey;
+    border: 2px solid #cceb34;
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+  }
+  .grid-class{
+    display:flex;
+   
+  }
+  span{
+  font-size: 30px;
+  }
